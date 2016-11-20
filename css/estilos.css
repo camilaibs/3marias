@@ -1,0 +1,12 @@
+@font-face {
+    font-family: SummerHearts;
+    src: url(../fonte/SummerHearts-Regular.otf);
+}
+
+.f-heart{
+	font-family: SummerHearts;
+}
+
+.branco{
+	color: #FFF;
+}
